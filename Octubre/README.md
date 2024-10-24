@@ -38,4 +38,4 @@ Para ayudaros en vuestro viaje de aprendizaje, aquí tenéis algunos recursos ú
 - Aprobar un Pull Request de otro equipo: 2 puntos
 - Ganar el Reto Final del mes: 20 puntos
 
-¡Buena suerte y que comience el desafío!
+¡Buena suerte y que comience el desafío! 
