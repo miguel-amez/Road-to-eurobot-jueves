@@ -1,0 +1,1 @@
+El puente está muy roto, necesita un nerfeo
